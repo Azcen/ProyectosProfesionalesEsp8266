@@ -3,7 +3,7 @@ Programa cargado a la tablilla de desarrollo ESP8266
 
 
 Los requisitos para la instalacion son los siguientes:
-  - Se requiere agregar el siguiente link en preferencias/Gestor de URLS Adicionales de Tarjetas para poder detectar y usar arduinoIDE para programar el ESP8266
+  - Se requiere agregar el siguiente link en "preferencias/Gestor de URLS Adicionales de Tarjetas" para poder detectar y usar arduinoIDE para programar el ESP8266
       - "http://arduino.esp8266.com/stable/package_esp8266com_index.json"
  
   
